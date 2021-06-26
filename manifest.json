@@ -1,0 +1,10 @@
+{
+  "name": "Is Pinned?",
+  "version": "0.01",
+  "description": "Check to see if an Extension is pinned to the tray",
+	"action": {
+		"default_title": "Popout HTML",
+		"default_popup": "popout.html"
+	},
+  "manifest_version": 3
+}
